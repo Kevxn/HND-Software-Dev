@@ -1,0 +1,106 @@
+
+#wrapper{
+	/*width: 1200px;
+	height: auto;
+	margin-left: auto;
+	margin-right:auto;
+	margin-top: 7px;*/
+    
+}
+.navbar-inverse {
+     background-color: #3a64a8 !important;
+     border-color: #080808;
+}
+txtLoginEmail:focus {
+
+    background-color:yellow;
+
+}
+
+h2{
+    font-family:Yu Gothic UI Semibold, Calibri;
+}
+ul {/*
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;*/
+}
+li {
+  /*  float: left;*/
+}
+
+li a {/*
+    border: thin;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 14px;
+    text-decoration: none;*/
+}
+
+li a:hover {
+    background-color: #b0e3f3;
+}
+
+#header {
+  /*  margin-top: 11px;
+    height: 100px;
+    background-color: #CCC;
+    background-position: center;
+*/
+
+}
+
+#header-nav{
+    
+   /*list-style-type: none;
+   margin: 0;
+   padding: 0;*/
+    
+}
+
+#header-nav a {
+ 
+  /*display: inline-block;*/
+}
+
+#header-nav a:hover {
+ /* background: #FFF;*/
+  
+}
+
+body{
+    
+	/*background-color: lightgray;
+	background-position: center;
+	background-size: 80px 60px;
+	padding-left:2cm;
+	padding-right:2cm;*/
+}
+
+.onHover:hover{
+   /* background: #262626;
+    font-family: Calibri;
+    */
+}
+
+.round-button:hover{
+   /* background: #262626;*/
+
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #00A79D;
+    /* opacity: 0.5; */
+}
+footer ul.soc {
+    float: right;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    color: #fff;
+}
